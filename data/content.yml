@@ -1,0 +1,120 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Chrysanthi Thomatou"
+
+  # animated text loop
+  occupations:
+    - 'English Teacher'
+    - 'Copywriter'
+    - 'Specialist on HR'
+
+  # hero background image
+  bg_image: 'images/back1.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/back2.jpg'
+
+########################### About ##################################
+about:
+  bc_color: #
+  enable: true
+  image: 'images/profile.jpg'
+  title: 'Info for me'
+  content: Hi, this is my personal website. If you have any questions feel free to reach out on [LinkedIn or by email](#contact)!
+  button:
+    enable: true
+    label: 'DOWNLOAD MY CV'
+    link: https://drive.google.com/uc?export=download&id=19A2dRfiUXCng59SRkv-IrcJhJTcEtPRU
+    icon: 'fa-download'
+
+
+##########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'EXPERIENCE'
+  experience_list:
+    - name: English Teacher in Private School
+      company: Bali-Vasalou Private School
+      duration: 'January 2022 - Present'
+      content: Teaching English to young learners acquiring A1 to B2 language level. Creating lessons
+              for presentation which prepare students for social interaction challenges, by
+              improving their acting out social skills through role plays, debates, dialogues. The
+              focal point is to urge students to participate and evolve their communication skills.
+
+    - name: English Teacher Assistant
+      company: 2nd Primary School of Neo Psychiko
+      duration: 'February - May 2022'
+      content: Observe and assist in the teaching process, create lesson plans for A1-A2 English learners. 
+              Help students to assimilate the new language via experiential learning. 
+              My Eportfolio for further details Chrysanthi's e-portfolio!
+
+  title: 'EDUCATION'
+  experience_list:
+    - name: English Teacher in Private School
+      company: Bali-Vasalou Private School
+      duration: 'January 2022 - Present'
+      content: Teaching English to young learners acquiring A1 to B2 language level. Creating lessons
+              for presentation which prepare students for social interaction challenges, by
+              improving their acting out social skills through role plays, debates, dialogues. The
+              focal point is to urge students to participate and evolve their communication skills.
+
+    - name: English Teacher Assistant
+      company: 2nd Primary School of Neo Psychiko
+      duration: 'February - May 2022'
+      content: Observe and assist in the teaching process, create lesson plans for A1-A2 English learners. 
+              Help students to assimilate the new language via experiential learning. 
+              My Eportfolio for further details Chrysanthi's e-portfolio!
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'SOME SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'React'
+      percentage: '85%'
+
+    - name: 'Detecting'
+      percentage: '93%'
+
+    - name: 'Selling'
+      percentage: '25%'
+
+    - name: 'Yelling'
+      percentage: '100%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: 'SEMINARS'
+      image: 'images/icons/coffee.png'
+      count: '4'
+
+    - name: 'TEACHING HOURS'
+      image: 'images/icons/web-development.png'
+      count: '125'
+
+    - name: 'USELESS ROW OF ICONS'
+      image: 'images/icons/happy.png'
+      count: '1'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'MY SEMINARS'
+  portfolio_list:
+    - name: Hugo
+      image: 'images/portfolio/hugo.png'
+      url: https://gohugo.io
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Hugo Themes
+      image: 'images/portfolio/hugothemes.png'
+      url: https://gohugo.io
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Just A Design
+      image: 'images/portfolio/design.png'
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+
