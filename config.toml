@@ -1,6 +1,5 @@
-
 # ---------- Default Configuration ----------- #
-baseURL = "https://example.com/"
+baseURL = "https://cephaloniahouses.eu/"
 title = "Chrysanthi Thomatou"
 theme = "port-hugo"
 
@@ -54,9 +53,9 @@ weight = 3
 
 # ------------ Deafualt Parameters ------------ #
 [params]
-logo_light = "images/x-white.svg"
+logo_light = "images/logo-blue.png"
 logo_dark = "images/x-dark.svg"
-copyright = "Copyright Chrysanthi Thomatou &copy;"
+copyright = "Powered by Fotis Valsamos | Copyright Chrysanthi Thomatou &copy;"
 # Meta data
 description = "Personal Website"
 author = "Fotis Valsamos"

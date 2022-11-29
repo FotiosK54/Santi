@@ -1,4 +1,4 @@
-########################## hero area ##########################
+# ------------------------ Hero area ------------------------ #
 hero:
   title: "I'm Chrysanthi Thomatou"
 
@@ -13,13 +13,17 @@ hero:
   # optional mobile breakpoint background
   mobile_bg_image: 'images/back2.jpg'
 
-########################### About ##################################
-about:
-  bc_color: #
+
+# -------------------------- About -------------------------- #
+about: 
   enable: true
   image: 'images/profile.jpg'
-  title: 'Info for me'
-  content: Hi, this is my personal website. If you have any questions feel free to reach out on [LinkedIn or by email](#contact)!
+  title: 'My profile'
+  content: Enthusiastic and dependable English language teacher with excellent communication and
+          problem -solving skills. Aptitude to remain flexible, ensuring that every child's learning
+          styles and abilities are addressed through inspiring hands-on lessons. Strong
+          interpersonal skills; able to establish positive working relationships. Travel study and
+          residence experience across Europe.
   button:
     enable: true
     label: 'DOWNLOAD MY CV'
@@ -27,7 +31,7 @@ about:
     icon: 'fa-download'
 
 
-##########################3 Experience ##############################
+# ------------------------ Experience ------------------------ #
 experience:
   enable: true
   title: 'EXPERIENCE'
@@ -47,74 +51,58 @@ experience:
               Help students to assimilate the new language via experiential learning. 
               My Eportfolio for further details Chrysanthi's e-portfolio!
 
-  title: 'EDUCATION'
-  experience_list:
-    - name: English Teacher in Private School
-      company: Bali-Vasalou Private School
-      duration: 'January 2022 - Present'
-      content: Teaching English to young learners acquiring A1 to B2 language level. Creating lessons
-              for presentation which prepare students for social interaction challenges, by
-              improving their acting out social skills through role plays, debates, dialogues. The
-              focal point is to urge students to participate and evolve their communication skills.
 
-    - name: English Teacher Assistant
-      company: 2nd Primary School of Neo Psychiko
-      duration: 'February - May 2022'
-      content: Observe and assist in the teaching process, create lesson plans for A1-A2 English learners. 
-              Help students to assimilate the new language via experiential learning. 
-              My Eportfolio for further details Chrysanthi's e-portfolio!
 
-############################### Skill #################################
+# ----------------------- Digital Skils ---------------------- #
 skill:
   enable: true
-  title: 'SOME SKILLS'
-  showpercent: false
+  title: 'DIGITAL SKILLS'
+  showpercent: true
   skill_list:
-    - name: 'React'
-      percentage: '85%'
+    - name: 'ECDL'
+      percentage: '120%'
 
-    - name: 'Detecting'
-      percentage: '93%'
-
-    - name: 'Selling'
-      percentage: '25%'
-
-    - name: 'Yelling'
+    - name: 'ZOOM/SKYPE'
       percentage: '100%'
 
-######################### funfacts #############################3
+
+# ------------------------- FunFacts ------------------------ #
 funfacts:
   enable: true
   funfacts_list:
     - name: 'SEMINARS'
-      image: 'images/icons/coffee.png'
+      image: 'images/icons/seminar.png'
       count: '4'
 
-    - name: 'TEACHING HOURS'
-      image: 'images/icons/web-development.png'
-      count: '125'
+    - name: 'Visited Countries'
+      image: 'images/icons/travel.png'
+      count: '5'
 
-    - name: 'USELESS ROW OF ICONS'
-      image: 'images/icons/happy.png'
-      count: '1'
+    - name: 'Watched Movies'
+      image: 'images/icons/movie.png'
+      count: '1057'
 
-############################# portfolio ################################
+
+# ------------------------ Portfolio ------------------------ #
 portfolio:
   enable: true
-  title: 'MY SEMINARS'
+  title: ' MY SEMINARS'
   portfolio_list:
-    - name: Hugo
+    - name: "Introduction of English Language in Kindergarten - 2022"
       image: 'images/portfolio/hugo.png'
       url: https://gohugo.io
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      description: Description 1
 
-    - name: Hugo Themes
+    - name: "Assesment in Multilingual Contexts: Τrends & Challenges in Foreign Language Education – 2021"
       image: 'images/portfolio/hugothemes.png'
       url: https://gohugo.io
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      description: Description 2 
 
-    - name: Just A Design
+    - name: "Translation Education and Pragmatics – 2021"
       image: 'images/portfolio/design.png'
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      description: Description 3
 
+    - name: "Positive Psychology - 2021"
+      image: 'images/portfolio/design.png'
+      description: Description 4
 
