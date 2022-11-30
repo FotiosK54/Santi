@@ -68,6 +68,7 @@ skill:
 
 # ------------------------- FunFacts ------------------------ #
 funfacts:
+  bc_color: black
   enable: true
   funfacts_list:
     - name: 'SEMINARS'
